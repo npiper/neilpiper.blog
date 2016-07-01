@@ -30,9 +30,9 @@ Say you've created your first files...
 > curl -u 'USER' https://api.github.com/user/repos -d '{"name":"REPO"}'
 
 ## Add the remote origin to the master
-git remote add origin git@github.com:USER/REPO.git
+> git remote add origin git@github.com:USER/REPO.git
 
 ## Push it:
-git push origin master
+> git push origin master
 
 ```
