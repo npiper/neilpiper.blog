@@ -36,3 +36,7 @@ Say you've created your first files...
 > git push origin master
 
 ```
+
+# For the power user...
+
+Try [hub](https://hub.github.com/) a command-line wrapper for git that makes you better at GitHub.
