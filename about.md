@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Neil Piper is an IT & Agile leader - who likes leading innovative and continuously improving teams & solving challenging problems.
+
+Based in Melbourne, Australia.
+
+You can find out more about me and experience at my [Linked In profile](https://www.linkedin.com/in/piperneil)
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
