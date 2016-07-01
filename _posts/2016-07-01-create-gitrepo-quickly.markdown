@@ -1,8 +1,21 @@
+---
+layout: post
+title:  "How to rapidly create GIT projects into github"
+date:   2016-07-01 22:36:09 +1000
+categories: git projects github
+---
 # How to rapidly create GIT projects into github
 
-Creating from the command line, it's possible to get a new project into GITHUB in a few simple lines.
+Creating from the command line, it's possible to get a new project into GITHUB in a few simple lines.  This is using the curl API's for github.
 
 Say you've created your first files...
+
+# What you need
+
+* A github account, username
+* curl
+* git locally installed
+
 
 ```
 ## Initialise
@@ -19,7 +32,7 @@ Say you've created your first files...
 ## Add the remote origin to the master
 git remote add origin git@github.com:USER/REPO.git
 
-## Push it
+## Push it:
 git push origin master
 
 ```

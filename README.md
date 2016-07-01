@@ -1,3 +1,7 @@
+# Jekyll Blog with Heroku
+
+Where it's deployed [neilpiper-blog](https://neilpiper-blog.herokuapp.com)
+
 # How to build & test
 
 Branch for Oauth on Heroku
