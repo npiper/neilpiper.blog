@@ -32,17 +32,17 @@ To achieve this (you are looking at it..!) I used this combination of technologi
 
 ### Create a github project
 
-Mine is at - (https://github.com/npiper/neilpiper.blog)
+Mine is at - [https://github.com/npiper/neilpiper.blog](https://github.com/npiper/neilpiper.blog)
 
 ### Install / Import Jekyll
 
-You'll need the pre-requisites listed at (https://jekyllrb.com/docs/installation/)
+You'll need the pre-requisites listed at [Jekyll Installation](https://jekyllrb.com/docs/installation/)
 
-Follow the instructions at (https://jekyllrb.com/docs/quickstart/) based on your site name. This will create the required structures.
+Follow the instructions at [Jekyll Quickstart](https://jekyllrb.com/docs/quickstart/) based on your site name. This will create the required structures.
 
 Build and test the Jekyll site following these instructions.
 
-(https://jekyllrb.com/docs/usage/)
+[Jekyll usage](https://jekyllrb.com/docs/usage/)
 
 You can then `git add .` and `git commit` the initial structure into your github location.
 
@@ -50,7 +50,7 @@ You can then `git add .` and `git commit` the initial structure into your github
 
 Follow the instructions James has left here, basically the Procfile is a provisioning instruction on how to deploy / server your Jekyll structure into a Heroku app with the [Puma web server](http://puma.io/). 
 
-(https://www.jamesward.com/2014/09/24/jekyll-on-heroku)
+[James ward - Jekyll on Heroku](https://www.jamesward.com/2014/09/24/jekyll-on-heroku)
 
 `web: bundle exec puma -t 8:32 -w 3 -p $PORT`
 
@@ -62,7 +62,7 @@ Sign up and create a Heroku account.
 
 You can then create a new app and deploy pipeline using the github project you created.
 
-https://devcenter.heroku.com/articles/pipelines#creating-pipelines
+[Creating Heroku Pipelines](https://devcenter.heroku.com/articles/pipelines#creating-pipelines)
 
 Follow the isntructions to link your github project to your build pipeline.
 
