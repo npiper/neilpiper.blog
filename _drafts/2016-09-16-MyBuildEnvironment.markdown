@@ -22,6 +22,12 @@ Dropbox storage
 AWS Free Tier (What are the constraints to keep it free?)
 
 
+## Provisioning
+
+* Packer
+* Vagrant
+* ServerSpec (Verification?)
+
 ## Options
 
 ### VM Per responsibility
