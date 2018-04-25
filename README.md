@@ -64,4 +64,4 @@ https://github.com/benbalter/jekyll-auth
 Heroku / Github
 https://devcenter.heroku.com/articles/github-integration
 
-
+# Travis-CI build
